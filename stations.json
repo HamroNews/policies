@@ -2,10 +2,127 @@
   {
     "id": "1",
     "name": "Radio Kantipur",
-    "streamUrl": "https://stream.zeno.fm/...",
-    "logo": "https://yourusername.github.io/repo-name/logos/kantipur.png",
+    "streamUrl": "https://stream.zeno.fm/yktov44icxbvv",
+    "logo": "https://radiokantipur.com/images/logo.png",
     "city": "Kathmandu",
     "district": "Kathmandu",
     "state": "Bagmati"
+  },
+  {
+    "id": "2",
+    "name": "Radio Nepal",
+    "streamUrl": "https://stream.zeno.fm/f3wvbb3418quv",
+    "logo": "https://radionepal.gov.np/wp-content/uploads/2021/04/rn-logo.png",
+    "city": "Kathmandu",
+    "district": "Kathmandu",
+    "state": "Bagmati"
+  },
+  {
+    "id": "3",
+    "name": "Saptakoshi FM",
+    "streamUrl": "https://stream.zeno.fm/g2szgxxpqwzuv",
+    "logo": "https://saptakoshifm.com.np/images/logo.png",
+    "city": "Itahari",
+    "district": "Sunsari",
+    "state": "Koshi"
+  },
+  {
+    "id": "4",
+    "name": "Radio Purbanchal",
+    "streamUrl": "https://stream.zeno.fm/zq0h6u6e27zuv",
+    "logo": "https://radiopurbanchal.org/logo.png",
+    "city": "Biratnagar",
+    "district": "Morang",
+    "state": "Koshi"
+  },
+  {
+    "id": "5",
+    "name": "Radio Mithila",
+    "streamUrl": "https://stream.zeno.fm/wv1c9m5zrf9uv",
+    "logo": "https://radiomithila.com.np/images/logo.png",
+    "city": "Janakpur",
+    "district": "Dhanusha",
+    "state": "Madhesh"
+  },
+  {
+    "id": "6",
+    "name": "Radio Salhesh",
+    "streamUrl": "https://stream.zeno.fm/ut3kgm1vsa0uv",
+    "logo": "https://radiosalhesh.com/logo.png",
+    "city": "Lahan",
+    "district": "Siraha",
+    "state": "Madhesh"
+  },
+  {
+    "id": "7",
+    "name": "Radio Annapurna",
+    "streamUrl": "https://stream.zeno.fm/4ukvgz7ydy8uv",
+    "logo": "https://radioannapurna.com.np/images/logo.png",
+    "city": "Pokhara",
+    "district": "Kaski",
+    "state": "Gandaki"
+  },
+  {
+    "id": "8",
+    "name": "Radio Machhapuchhre",
+    "streamUrl": "https://stream.zeno.fm/cc9ez9yydy8uv",
+    "logo": "https://radiomachhapuchhre.com/logo.png",
+    "city": "Pokhara",
+    "district": "Kaski",
+    "state": "Gandaki"
+  },
+  {
+    "id": "9",
+    "name": "Radio Lumbini",
+    "streamUrl": "https://stream.zeno.fm/994v0r527zuv",
+    "logo": "https://radiolumbini.org.np/images/logo.png",
+    "city": "Manigram",
+    "district": "Rupandehi",
+    "state": "Lumbini"
+  },
+  {
+    "id": "10",
+    "name": "Radio Bheri",
+    "streamUrl": "https://stream.zeno.fm/87v4a69x3zuv",
+    "logo": "https://radiobheri.com.np/logo.png",
+    "city": "Nepalgunj",
+    "district": "Banke",
+    "state": "Lumbini"
+  },
+  {
+    "id": "11",
+    "name": "Bulbul FM",
+    "streamUrl": "https://stream.zeno.fm/bulbul-fm",
+    "logo": "https://bulbul fm.com.np/logo.png",
+    "city": "Birendranagar",
+    "district": "Surkhet",
+    "state": "Karnali"
+  },
+  {
+    "id": "12",
+    "name": "Radio Karnali",
+    "streamUrl": "https://stream.zeno.fm/radiokarnali",
+    "logo": "https://radiokarnali.org.np/logo.png",
+    "city": "Chandannath",
+    "district": "Jumla",
+    "state": "Karnali"
+  },
+  {
+    "id": "13",
+    "name": "Radio Sudurpaschim",
+    "streamUrl": "https://stream.zeno.fm/sudurpaschim",
+    "logo": "https://radiosudurpaschim.com.np/logo.png",
+    "city": "Dhangadhi",
+    "district": "Kailali",
+    "state": "Sudurpashchim"
+  },
+  {
+    "id": "14",
+    "name": "Radio Mahakali",
+    "streamUrl": "https://stream.zeno.fm/mahakali",
+    "logo": "https://radiomahakali.com.np/logo.png",
+    "city": "Bhimdatta",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim"
   }
 ]

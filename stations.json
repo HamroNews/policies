@@ -19,110 +19,164 @@
   },
   {
     "id": "3",
-    "name": "Saptakoshi FM",
-    "streamUrl": "https://stream.zeno.fm/g2szgxxpqwzuv",
-    "logo": "https://saptakoshifm.com.np/images/logo.png",
-    "city": "Itahari",
-    "district": "Sunsari",
-    "state": "Koshi"
+    "name": "Abdulbasit Abdulsamad",
+    "streamUrl": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": ""
   },
   {
     "id": "4",
-    "name": "Radio Purbanchal",
-    "streamUrl": "https://stream.zeno.fm/zq0h6u6e27zuv",
-    "logo": "https://radiopurbanchal.org/logo.png",
-    "city": "Biratnagar",
-    "district": "Morang",
-    "state": "Koshi"
+    "name": "BBC Nepali",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+    "logo": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png",
+    "city": "",
+    "district": "",
+    "state": "Bagmati"
   },
   {
     "id": "5",
-    "name": "Radio Mithila",
-    "streamUrl": "https://stream.zeno.fm/wv1c9m5zrf9uv",
-    "logo": "https://radiomithila.com.np/images/logo.png",
-    "city": "Janakpur",
-    "district": "Dhanusha",
-    "state": "Madhesh"
+    "name": "BFBS Gurkha Radio",
+    "streamUrl": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+    "logo": "https://radio.bfbs.com/icons/icon-512x512.png?v=0afec91a27aaa6d57f2b000c6fbe8cac",
+    "city": "",
+    "district": "",
+    "state": ""
   },
   {
     "id": "6",
-    "name": "Radio Salhesh",
-    "streamUrl": "https://stream.zeno.fm/ut3kgm1vsa0uv",
-    "logo": "https://radiosalhesh.com/logo.png",
-    "city": "Lahan",
-    "district": "Siraha",
-    "state": "Madhesh"
+    "name": "Capital FM 92.4",
+    "streamUrl": "http://streaming.softnep.net:8037/;",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": "Bagmati"
   },
   {
     "id": "7",
-    "name": "Radio Annapurna",
-    "streamUrl": "https://stream.zeno.fm/4ukvgz7ydy8uv",
-    "logo": "https://radioannapurna.com.np/images/logo.png",
-    "city": "Pokhara",
-    "district": "Kaski",
-    "state": "Gandaki"
+    "name": "CIN Khabar",
+    "streamUrl": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60",
+    "logo": "https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png",
+    "city": "",
+    "district": "",
+    "state": "Bagmati"
   },
   {
     "id": "8",
-    "name": "Radio Machhapuchhre",
-    "streamUrl": "https://stream.zeno.fm/cc9ez9yydy8uv",
-    "logo": "https://radiomachhapuchhre.com/logo.png",
-    "city": "Pokhara",
-    "district": "Kaski",
-    "state": "Gandaki"
+    "name": "Hits FM 91.2",
+    "streamUrl": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": "Bagmati"
   },
   {
     "id": "9",
-    "name": "Radio Lumbini",
-    "streamUrl": "https://stream.zeno.fm/994v0r527zuv",
-    "logo": "https://radiolumbini.org.np/images/logo.png",
-    "city": "Manigram",
-    "district": "Rupandehi",
-    "state": "Lumbini"
+    "name": "Jayaprithvi F.M.",
+    "streamUrl": "https://streaming.softnep.net:10824/",
+    "logo": "https://cdn-profiles.tunein.com/s343823/images/logod.jpg?t=638841604500000000",
+    "city": "",
+    "district": "",
+    "state": "Sudurpaschim"
   },
   {
     "id": "10",
-    "name": "Radio Bheri",
-    "streamUrl": "https://stream.zeno.fm/87v4a69x3zuv",
-    "logo": "https://radiobheri.com.np/logo.png",
-    "city": "Nepalgunj",
-    "district": "Banke",
-    "state": "Lumbini"
+    "name": "Kalika FM",
+    "streamUrl": "http://kalika-stream.softnep.com:7740/;",
+    "logo": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png",
+    "city": "",
+    "district": "",
+    "state": ""
   },
   {
     "id": "11",
-    "name": "Bulbul FM",
-    "streamUrl": "https://stream.zeno.fm/bulbul-fm",
-    "logo": "https://bulbul fm.com.np/logo.png",
-    "city": "Birendranagar",
-    "district": "Surkhet",
-    "state": "Karnali"
+    "name": "Khozee Radio",
+    "streamUrl": "http://216.55.141.189:8060/stream/1/",
+    "logo": "https://www.hamropatro.com/favicon.ico",
+    "city": "",
+    "district": "",
+    "state": ""
   },
   {
     "id": "12",
-    "name": "Radio Karnali",
-    "streamUrl": "https://stream.zeno.fm/radiokarnali",
-    "logo": "https://radiokarnali.org.np/logo.png",
-    "city": "Chandannath",
-    "district": "Jumla",
-    "state": "Karnali"
+    "name": "KOOL FM 90.3",
+    "streamUrl": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3&volume=70",
+    "logo": "https://www.kool903.com/themes/kool903/images/logo.png?v=1.1",
+    "city": "Kathmandu",
+    "district": "",
+    "state": "Kathmandu"
   },
   {
     "id": "13",
-    "name": "Radio Sudurpaschim",
-    "streamUrl": "https://stream.zeno.fm/sudurpaschim",
-    "logo": "https://radiosudurpaschim.com.np/logo.png",
-    "city": "Dhangadhi",
-    "district": "Kailali",
-    "state": "Sudurpashchim"
+    "name": "Napho Radio FM 88.25",
+    "streamUrl": "https://radio11.plathong.net/7136/;stream.mp3",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": ""
   },
   {
     "id": "14",
-    "name": "Radio Mahakali",
-    "streamUrl": "https://stream.zeno.fm/mahakali",
-    "logo": "https://radiomahakali.com.np/logo.png",
-    "city": "Bhimdatta",
-    "district": "Kanchanpur",
-    "state": "Sudurpashchim"
+    "name": "Naya Radio",
+    "streamUrl": "http://live.itech.host:1110/;",
+    "logo": "https://www.nayafm.com.np/style/icon2.png",
+    "city": "",
+    "district": "",
+    "state": ""
+  },
+  {
+    "id": "15",
+    "name": "Radio Audio",
+    "streamUrl": "https://stream.zeno.fm/fvrx47wpg0quv",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": "Bagmati"
+  },
+  {
+    "id": "16",
+    "name": "Radio Himalaya",
+    "streamUrl": "https://live.itech.host/himalayaradio?1588276425741",
+    "logo": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+    "city": "",
+    "district": "",
+    "state": ""
+  },
+  {
+    "id": "17",
+    "name": "Radio Thaha Sanchar",
+    "streamUrl": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": ""
+  },
+  {
+    "id": "18",
+    "name": "RadioSagar",
+    "streamUrl": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": ""
+  },
+  {
+    "id": "19",
+    "name": "Swadesh 93.2 FM",
+    "streamUrl": "http://216.55.141.189:8653/stream?type=http&nocache=66846",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": ""
+  },
+  {
+    "id": "20",
+    "name": "Ujyaalo 90 Network",
+    "streamUrl": "http://stream.zenolive.com/wtuvp08xq1duv",
+    "logo": "",
+    "city": "",
+    "district": "",
+    "state": "Bagmati"
   }
 ]
